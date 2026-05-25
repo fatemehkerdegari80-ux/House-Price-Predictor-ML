@@ -3,7 +3,7 @@
 A Python project that predicts house prices using Linear Regression.
 
 ### 🚀 How it Works & Setup
-```bash
+
 # 1. WHAT IT DOES:
 # - Cleans data (removes Area > 2000)
 # - Encodes 'Address' and features (Parking, Elevator, etc.) to numbers
