@@ -11,7 +11,9 @@ A Python project that predicts house prices using Linear Regression.
  - Estimates price based on Area, Room, and Location
 
 ### 2. REQUIREMENTS:
+```bash
 pip install pandas numpy matplotlib scikit-learn
+```
 
 ### 3. QUICK START:
  - Put 'housePrice.csv' in the same folder as the script
